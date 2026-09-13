@@ -1,5 +1,7 @@
 # Super Sunday Grand Prix Standings
 
+Held at Kiltorcan Raceway.
+
 Standings after 7 races, sorted by total points.
 
 ## Point System
