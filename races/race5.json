@@ -1,0 +1,26 @@
+{
+  "race": "Race 5",
+  "results": [
+    {"name": "Josh Phelan", "kart": 16, "best_lap": "68.326 / 68.326", "gap": ""},
+    {"name": "Abbie Gaul", "kart": 22, "best_lap": "67.964 / 67.964", "gap": "0.210"},
+    {"name": "James Connolly", "kart": 4, "best_lap": "68.178 / 68.178", "gap": "0.342"},
+    {"name": "Darragh Flanagan", "kart": 7, "best_lap": "68.089 / 68.089", "gap": "1.455"},
+    {"name": "Warren Russell", "kart": 6, "best_lap": "68.196 / 68.196", "gap": "7.438"},
+    {"name": "Max McWilliams", "kart": 1, "best_lap": "68.46 / 68.460", "gap": "9.332"},
+    {"name": "Derek Stamp", "kart": 12, "best_lap": "68.028 / 68.028", "gap": "10.170"},
+    {"name": "Amador Pahim", "kart": 10, "best_lap": "68.711 / 68.711", "gap": "11.780"},
+    {"name": "Arsenii Bielievych", "kart": 8, "best_lap": "68.989 / 68.989", "gap": "18.572"},
+    {"name": "Luke Phelan", "kart": 3, "best_lap": "69.333 / 69.333", "gap": "24.060"},
+    {"name": "Michael Finn", "kart": 24, "best_lap": "69.269 / 69.269", "gap": "29.479"},
+    {"name": "Patrick McWilliams", "kart": 19, "best_lap": "69.479 / 69.479", "gap": "30.319"},
+    {"name": "Simon Gaul", "kart": 2, "best_lap": "69.636 / 69.636", "gap": "+1"},
+    {"name": "Maksymilian Rul", "kart": 23, "best_lap": "69.968 / 69.968", "gap": "+1"},
+    {"name": "Sergei Fomin", "kart": 5, "best_lap": "69.608 / 69.608", "gap": "+1"},
+    {"name": "Darren Maddock", "kart": 18, "best_lap": "69.952 / 69.952", "gap": "+1"},
+    {"name": "Krzysztof Rul", "kart": 14, "best_lap": "70.284 / 70.284", "gap": "+1"},
+    {"name": "Wayne Handrick", "kart": 13, "best_lap": "70.26 / 70.260", "gap": "+1"},
+    {"name": "Colin Mernagh", "kart": 20, "best_lap": "70.111 / 70.111", "gap": "+1"},
+    {"name": "Sean O'Connor", "kart": 15, "best_lap": "70.114 / 70.114", "gap": "+1"},
+    {"name": "Luca Newell", "kart": 11, "best_lap": "70.209 / 70.209", "gap": "+1"}
+  ]
+}

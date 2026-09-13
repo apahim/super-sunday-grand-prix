@@ -1,0 +1,28 @@
+{
+  "race": "Race 6",
+  "results": [
+    {"name": "Simon Gaul", "kart": 15, "best_lap": "69.139 / 69.139", "gap": ""},
+    {"name": "Arthur Abdullov", "kart": 1, "best_lap": "69.346 / 69.346", "gap": "9.841"},
+    {"name": "Amador Pahim", "kart": 22, "best_lap": "69.508 / 69.508", "gap": "10.210"},
+    {"name": "James Connolly", "kart": 16, "best_lap": "69.429 / 69.429", "gap": "11.197"},
+    {"name": "Darragh Flanagan", "kart": 24, "best_lap": "69.874 / 69.874", "gap": "+1"},
+    {"name": "Séan Curran", "kart": 19, "best_lap": "69.927 / 69.927", "gap": "+1"},
+    {"name": "Cillian Taaffe", "kart": 7, "best_lap": "70.253 / 70.253", "gap": "+1"},
+    {"name": "Damien K", "kart": 13, "best_lap": "70.496 / 70.496", "gap": "+1"},
+    {"name": "Dean Scully", "kart": 4, "best_lap": "70.783 / 70.783", "gap": "+1"},
+    {"name": "Darren Maddock", "kart": 21, "best_lap": "71.008 / 71.008", "gap": "+1"},
+    {"name": "Sean O'Connor", "kart": 18, "best_lap": "70.756 / 70.756", "gap": "+1"},
+    {"name": "Leon Cranley", "kart": 11, "best_lap": "71.13 / 71.130", "gap": "+1"},
+    {"name": "Stephen Oleary", "kart": 6, "best_lap": "71.893 / 71.893", "gap": "+1"},
+    {"name": "James Murapallil", "kart": 3, "best_lap": "71.998 / 71.998", "gap": "+1"},
+    {"name": "Lee Manning", "kart": 17, "best_lap": "71.565 / 71.565", "gap": "+1"},
+    {"name": "Eoin Sheerin", "kart": 5, "best_lap": "69.365 / 69.365", "gap": "+1"},
+    {"name": "Pierce Slaney", "kart": 8, "best_lap": "73.242 / 73.242", "gap": "+2"},
+    {"name": "John Whewell", "kart": 23, "best_lap": "72.941 / 72.941", "gap": "+2"},
+    {"name": "Shauna Nolan", "kart": 9, "best_lap": "74.061 / 74.061", "gap": "+2"},
+    {"name": "Bailey Sarsfield", "kart": 10, "best_lap": "74.994 / 74.994", "gap": "+2"},
+    {"name": "Jenna Tierney", "kart": 14, "best_lap": "76.682 / 76.682", "gap": "+2"},
+    {"name": "Samuel Denn", "kart": 12, "best_lap": "78.614 / 78.614", "gap": "+3"},
+    {"name": "Remex Mathew", "kart": 20, "best_lap": "78.259 / 78.259", "gap": "+3"}
+  ]
+}

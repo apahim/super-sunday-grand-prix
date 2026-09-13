@@ -1,0 +1,25 @@
+{
+  "race": "Race 1",
+  "results": [
+    {"name": "Arthur Abdullov", "kart": 16, "best_lap": "68.568 / 68.568", "gap": ""},
+    {"name": "Pablo Clavel", "kart": 3, "best_lap": "69.089 / 69.089", "gap": "6.438"},
+    {"name": "Simon Gaul", "kart": 12, "best_lap": "69.332 / 69.332", "gap": "12.775"},
+    {"name": "Niall O'Sullivan", "kart": 18, "best_lap": "69.564 / 69.564", "gap": "13.024"},
+    {"name": "Jake Brunell", "kart": 2, "best_lap": "69.282 / 69.282", "gap": "14.224"},
+    {"name": "Tom Brennan", "kart": 20, "best_lap": "69.692 / 69.692", "gap": "16.907"},
+    {"name": "Seán Wilson", "kart": 7, "best_lap": "68.731 / 68.731", "gap": "16.923"},
+    {"name": "Sean O'Connor", "kart": 14, "best_lap": "69.296 / 69.296", "gap": "17.472"},
+    {"name": "Adam Kenna", "kart": 9, "best_lap": "70.452 / 70.452", "gap": "37.528"},
+    {"name": "Peter O'Dwyer", "kart": 1, "best_lap": "70.175 / 70.175", "gap": "38.163"},
+    {"name": "Stephen Bryan", "kart": 11, "best_lap": "70.279 / 70.279", "gap": "40.906"},
+    {"name": "Martin Kirwan", "kart": 10, "best_lap": "70.532 / 70.532", "gap": "41.957"},
+    {"name": "Michael Finn", "kart": 15, "best_lap": "70.415 / 70.415", "gap": "47.798"},
+    {"name": "Shane Mullen", "kart": 5, "best_lap": "71.63 / 71.630", "gap": "64.475"},
+    {"name": "Darius Barburas", "kart": 13, "best_lap": "69.454 / 69.454", "gap": "65.132"},
+    {"name": "Sean Berkenvelder", "kart": 19, "best_lap": "71.844 / 71.844", "gap": "75.352"},
+    {"name": "Viktor Zherdev", "kart": 8, "best_lap": "71.723 / 71.723", "gap": "+1"},
+    {"name": "Igor Solenov", "kart": 6, "best_lap": "72.58 / 72.580", "gap": "+1"},
+    {"name": "Ana maria Laslau", "kart": 17, "best_lap": "72.416 / 72.416", "gap": "+1"},
+    {"name": "Keith O'Dwyer", "kart": 4, "best_lap": "77.025 / 77.025", "gap": "+2"}
+  ]
+}

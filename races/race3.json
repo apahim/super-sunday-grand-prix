@@ -1,0 +1,25 @@
+{
+  "race": "Race 3",
+  "results": [
+    {"name": "David Hodnett", "kart": 14, "best_lap": "89.607 / 89.607", "gap": ""},
+    {"name": "Simon Gaul", "kart": 13, "best_lap": "90.856 / 90.856", "gap": "33.428"},
+    {"name": "Richard Boerescu", "kart": 7, "best_lap": "93.808 / 93.808", "gap": "+1"},
+    {"name": "Niall O'Sullivan", "kart": 20, "best_lap": "95.333 / 95.333", "gap": "+1"},
+    {"name": "Amador Pahim", "kart": 11, "best_lap": "95.745 / 95.745", "gap": "+1"},
+    {"name": "Darragh Flanagan", "kart": 16, "best_lap": "95.338 / 95.338", "gap": "+1"},
+    {"name": "Arthur Abdullov", "kart": 12, "best_lap": "96.164 / 96.164", "gap": "+1"},
+    {"name": "Aaron Thompson", "kart": 8, "best_lap": "94.11 / 94.110", "gap": "+2"},
+    {"name": "David Terescak", "kart": 17, "best_lap": "96.257 / 96.257", "gap": "+2"},
+    {"name": "Abbie Gaul", "kart": 6, "best_lap": "95.948 / 95.948", "gap": "+2"},
+    {"name": "James Connolly", "kart": 5, "best_lap": "96.105 / 96.105", "gap": "+2"},
+    {"name": "Nikita Medvedevs", "kart": 10, "best_lap": "99.866 / 99.866", "gap": "+2"},
+    {"name": "Gavin Sheehan", "kart": 19, "best_lap": "98.474 / 98.474", "gap": "+2"},
+    {"name": "Sean O'Connor", "kart": 3, "best_lap": "100.033 / 100.033", "gap": "+3"},
+    {"name": "Sean OConnor", "kart": 15, "best_lap": "99.778 / 99.778", "gap": "+3"},
+    {"name": "Ronan Dunne", "kart": 1, "best_lap": "97.65 / 97.650", "gap": "+3"},
+    {"name": "Gavin O'Looney", "kart": 2, "best_lap": "104.476 / 104.476", "gap": "+4"},
+    {"name": "Stephen Oleary", "kart": 4, "best_lap": "106.807 / 106.807", "gap": "+4"},
+    {"name": "Adam Kenna", "kart": 18, "best_lap": "105.792 / 105.792", "gap": "+4"},
+    {"name": "Paul French", "kart": 9, "best_lap": "118.367 / 118.367", "gap": "+6"}
+  ]
+}
