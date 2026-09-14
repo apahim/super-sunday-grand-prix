@@ -8,6 +8,8 @@ from pathlib import Path
 CANONICAL_NAMES = {
     "Sean OConnor": "Sean O'Connor",
     "Darragh Flannagan": "Darragh Flanagan",
+    "Greg Flanagan": "Gregory Flanagan",
+    "Killian Fagan": "Killian Flanagan",
 }
 
 
