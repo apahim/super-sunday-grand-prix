@@ -127,26 +127,42 @@ def race_table(race):
 
 def write_markdown(races, stats):
     race_links = "\n".join(
-        f"| [{race.get('race', f'Race {i}')}]({Path('races') / f'race{i}.md'}) |"
+        f"| {i} | [{race.get('race', f'Race {i}')} results]({Path('races') / f'race{i}.md'}) |"
         for i, race in enumerate(races, start=1)
     )
-    readme = f"""# Super Sunday Grand Prix Standings
+    leader, leader_stats = standings_rows(stats)[0]
+    latest_winner = score_race(races[-1])[0][1]["name"]
+    readme = f"""<p align="center">
+  <img src="https://static.wixstatic.com/media/85e2aa_54d10f762f844136acab2fb7d28800e7~mv2.png/v1/fill/w_684,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/F%20logo.png" alt="Kiltorcan Raceway logo" width="684">
+</p>
 
-Held at Kiltorcan Raceway.
+# Super Sunday Grand Prix
 
-Standings after {len(races)} races, sorted by total points.
+Rental kart racing, Sunday bragging rights, and a leaderboard that refuses to stay quiet.
 
-## Top 10 Driver Standings
+## Track Notes
+
+| Venue | Races Logged | Championship Leader | Latest Winner |
+|---|---:|---|---|
+| Kiltorcan Raceway | {len(races)} | {leader}, {leader_stats['total']} pts | {latest_winner} |
+
+Every race page includes finishing position, kart number, best lap, gap, and points scored.
+
+## Front Of The Grid
 
 {standings_table(stats, limit=10)}
 
-[Full standings](standings.md)
+Want the full midfield scrap too? Open the [complete driver standings](standings.md).
 
 ## Race Results
 
-| Race |
-|---|
+| Round | Results |
+|---:|---|
 {race_links}
+
+## How It Works
+
+Points are awarded by finishing position. If a driver appears twice in the same race under a known name variant, only their best finishing position counts.
 """
     Path("README.md").write_text(readme, encoding="utf-8")
 

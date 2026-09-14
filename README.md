@@ -1,10 +1,20 @@
-# Super Sunday Grand Prix Standings
+<p align="center">
+  <img src="https://static.wixstatic.com/media/85e2aa_54d10f762f844136acab2fb7d28800e7~mv2.png/v1/fill/w_684,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/F%20logo.png" alt="Kiltorcan Raceway logo" width="684">
+</p>
 
-Held at Kiltorcan Raceway.
+# Super Sunday Grand Prix
 
-Standings after 7 races, sorted by total points.
+Rental kart racing, Sunday bragging rights, and a leaderboard that refuses to stay quiet.
 
-## Top 10 Driver Standings
+## Track Notes
+
+| Venue | Races Logged | Championship Leader | Latest Winner |
+|---|---:|---|---|
+| Kiltorcan Raceway | 7 | Simon Gaul, 131 pts | Josh Phelan |
+
+Every race page includes finishing position, kart number, best lap, gap, and points scored.
+
+## Front Of The Grid
 
 | Rank | Driver | Races | Total | Avg |
 |---:|---|---:|---:|---:|
@@ -19,16 +29,20 @@ Standings after 7 races, sorted by total points.
 | 9 | Niall O'Sullivan | 3 | 48 | 16.00 |
 | 10 | Michael Finn | 4 | 44 | 11.00 |
 
-[Full standings](standings.md)
+Want the full midfield scrap too? Open the [complete driver standings](standings.md).
 
 ## Race Results
 
-| Race |
-|---|
-| [Race 1](races/race1.md) |
-| [Race 2](races/race2.md) |
-| [Race 3](races/race3.md) |
-| [Race 4](races/race4.md) |
-| [Race 5](races/race5.md) |
-| [Race 6](races/race6.md) |
-| [Race 7](races/race7.md) |
+| Round | Results |
+|---:|---|
+| 1 | [Race 1 results](races/race1.md) |
+| 2 | [Race 2 results](races/race2.md) |
+| 3 | [Race 3 results](races/race3.md) |
+| 4 | [Race 4 results](races/race4.md) |
+| 5 | [Race 5 results](races/race5.md) |
+| 6 | [Race 6 results](races/race6.md) |
+| 7 | [Race 7 results](races/race7.md) |
+
+## How It Works
+
+Points are awarded by finishing position. If a driver appears twice in the same race under a known name variant, only their best finishing position counts.
